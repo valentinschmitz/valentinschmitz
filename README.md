@@ -1,12 +1,11 @@
 # Salut ! Moi c'est Valentin 👋
 
-### 🚀 PDG chez Groupe FiveHost | Étudiant @ Epitech
-
-Passionné par l'informatique, le développement logiciel, le DevOps et la direction d'entreprise.
+> [!CAUTION]
+> *"Code is like a joke. If it needs comments, it’s not good."* — Russ Olsen
 
 ---
 
-### 💼 Expériences & Parcours
+### 💼 Expériences & Parcours Tech
 
 - 🏢 **PDG chez Groupe FiveHost** : Direction générale, Stratégie d'entreprise, Leadership & Gestion de projet.
 
