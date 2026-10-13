@@ -39,7 +39,9 @@ Passionné par l'informatique, le développement logiciel, le DevOps et la direc
 ![Twig](https://img.shields.io/badge/Twig-84B228?style=for-the-badge&logo=symfony&logoColor=white)
 
 #### Outils, BDD & DevOps
-![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=infinity&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com)
+[![Makefile](https://img.shields.io/badge/Makefile-404142?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
