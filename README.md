@@ -65,8 +65,6 @@ Passionné par l'informatique, le développement logiciel, le DevOps et la direc
 
 ---
 
-### 📊 Statistiques GitHub
-
 <p align="center">
   <a href="https://github.com/valentinschmitz">
     <img height="190" align="center" src="./profile/stats.svg" />
